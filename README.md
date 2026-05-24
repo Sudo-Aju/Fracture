@@ -117,4 +117,32 @@ Features include:
 
 # Enclosure
 
-The enclosure
+The enclosure follows the central "fracture" design language:
+- Broken center seam
+- Aggresive angular styling
+- Compact low-profile body
+- Seamless split mechanism
+
+The goal was to make the keyboard feel more like a designed object rather than just a perpheral.
+
+---
+
+# Firmware (QMK)
+
+Firmware features:
+- Bluetooth support
+- Custom keymaps
+- Layer switching
+- Encoder controls
+- VIA / Vial compatibility *(planned)*
+
+---
+
+```bash
+Fracture/
+├── PCB/
+├── CAD/
+├── Firmware/
+├── Assets/
+├── Docs/
+└── README.md
