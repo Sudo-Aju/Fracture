@@ -121,6 +121,14 @@ Features include:
 - Kailh hot-swap compatibility
 - Compact routing for slip profile construction
 
+## PCB
+<img src="./Assets/PCB.png">
+
+## Schematic
+<img src="./Assets/SCH.png"
+
+## Placement
+<img src="" alt="to be added latre">
 ---
 
 # Enclosure
