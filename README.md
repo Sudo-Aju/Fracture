@@ -125,7 +125,7 @@ Features include:
 <img src="./Assets/PCB.png">
 
 ## Schematic
-<img src="./Assets/SCH.png"
+<img src="./Assets/SCH.png">
 
 ## Placement
 <img src="" alt="to be added latre">
