@@ -21,7 +21,7 @@ A Bluetooth Powered 48-Key Split Keyboard
 
 <div align="center">
 
-<img src="./Renders/SpacedOut.png">
+<img src="./Renders/FinalKeeb.png">
 
 </div>
 
@@ -76,9 +76,9 @@ The project also explores how industrial design and hardware aesthetics can coex
 
 <div align="center">
 
+<img src="./Renders/SpacedOut.png">
 <img src="./Renders/Back.png">
 <img src="./Renders/FinalEnclosure.png">
-<img src="./Renders/FinalKeeb.png">
 
 </div>
 
