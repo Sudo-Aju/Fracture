@@ -169,3 +169,55 @@ Fracture/
 ├── Assets/
 ├── Docs/
 └── README.md
+```
+
+---
+
+# Current Status
+
+Fracture is currently been designed and is yet to be built.
+
+---
+
+# Contributing 
+
+Contributions, suggestions, and feedback are welcome.
+
+If you'd like to improve Fracture:
+1. Fork or Clone the repository 
+```bash
+git clone https://github.com/Sudo-Aju/Fracture.git
+cd Fracture
+```
+2. Create your feature branch (if forked)
+3. Commit your changes
+4. Open a pull request
+
+---
+
+# Creator
+
+### Azmeer Pirani
+17 • India • @fallout
+
+Built with a love for:
+- hardware design
+- industrial aesthetics
+- mechanical keyboards
+- expirimental products
+
+---
+
+# License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## FRACTURE
+
+### _Break the keyboard. Not the workflow._
+
+</div>
