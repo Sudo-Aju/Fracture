@@ -72,6 +72,19 @@ The project also explores how industrial design and hardware aesthetics can coex
 
 ---
 
+# Gallery
+
+<div align="center">
+
+<img src="./Renders/Back.png">
+<img src="./Renders/FinalEnclosure.png">
+<img src="./Renders/FinalKeeb.png">
+
+</div>
+
+___
+
+
 # Hardware Stack
 
 | Component | Description |
@@ -85,6 +98,16 @@ The project also explores how industrial design and hardware aesthetics can coex
 | Keycaps | Slim Low-Profile Keycaps |
 | PCB | Custom Designes |
 | Case | Themed Fracture Enclosure |
+
+---
+
+# Zine
+
+<div align="center">
+
+<img src="./Assets/Zine.png">
+
+</div>
 
 ---
 
