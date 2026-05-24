@@ -66,6 +66,6 @@ The project also explores how industrial design and hardware aesthetics can coex
 
 <div align="center">
 
-<img src="./Renders/SpacedOut.png"
+<img src="./Renders/SpacedOut.png">
 
 <div
