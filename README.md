@@ -129,6 +129,7 @@ Features include:
 
 ## Placement
 <img src="" alt="to be added latre">
+
 ---
 
 # Enclosure

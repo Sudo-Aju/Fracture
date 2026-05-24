@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D80, D81, D82, D83";"D_SOD-123";48;"D";;;
+2;"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW26, SW29, SW30, SW31, SW33, SW34, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49";"SW_choc_v1_HS_CPG135001S30_1u";44;"SW_Push_45deg";;;
+3;"SW25, SW32";"SW_choc_v1_HS_CPG135001S30_1.25u";2;"SW_Push_45deg";;;
+4;"SW27, SW28";"SW_choc_v1_HS_CPG135001S30_1.5u";2;"SW_Push_45deg";;;
+5;"SW35, SW50";"RotaryEncoder_Alps_EC11E_Vertical_H20mm";2;"RotaryEncoder";;;
+6;"TP1, TP2, TP3, TP4";"TestPoint_Pad_D2.0mm";4;"TestPoint";;;
+7;"U1, U2";"modified-XIAO-nRF52840-SMD";2;"XIAO-nRF52840-SMD";;;
