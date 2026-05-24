@@ -17,6 +17,16 @@ A Bluetooth Powered 48-Key Split Keyboard
 
 ---
 
+# Preview
+
+<div align="center">
+
+<img src="./Renders/SpacedOut.png">
+
+</div>
+
+---
+
 # Overview
 
 **Fracture** is a wireless 48-key split mechanical keyboard built around modularity, portability, and aesthetics.
@@ -59,16 +69,6 @@ The project also explores how industrial design and hardware aesthetics can coex
 - **Slim Keycaps**
 - **Portable & Lightweigth**
 - **Fully Custom PCB**
-
----
-
-# Preview
-
-<div align="center">
-
-<img src="./Renders/SpacedOut.png">
-
-</div>
 
 ---
 
