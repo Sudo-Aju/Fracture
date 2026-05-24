@@ -3,7 +3,7 @@
 # FRACTURE
 A Bluetooth Powered 48-Key Split Keyboard
 
-<img src="./assets/logo.png" alt="FractureLogo" width="100%" />
+<img src="https://github.com/Sudo-Aju/Fracture/blob/main/Assets/logo.png?raw=true" alt="FractureLogo" width="100%" />
 
 <p>
 <img src="https://img.shields.io/badge/Status-In%20Development-8A2BE2?style=for-the-badge">
