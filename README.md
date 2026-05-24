@@ -87,3 +87,34 @@ The project also explores how industrial design and hardware aesthetics can coex
 | Case | Themed Fracture Enclosure |
 
 ---
+
+# Design Philosophy
+
+Fracture was designed around three core ideas:
+
+## 1. Ergonomics
+The split layout allows natural hand positioning, reducing strain during long typing sessions.
+
+## 2. Modularity
+Hot-swap sockets and detachable halves make the keyboard adaptable and repairable.
+
+## 3. Identity
+instead of looking like a generic keyboard, Fracture embraces an aggresive fractured visual style inspired by broken surfaces and asymmetry.
+
+---
+
+# PCB Design
+
+The PCB was custom designed specifically for the Fracture layout and enclosure.
+
+Features include:
+- Wireless microcontroller support
+- Rotary encoder integration
+- Kailh hot-swap compatibility
+- Compact routing for slip profile construction
+
+---
+
+# Enclosure
+
+The enclosure
