@@ -1,0 +1,10 @@
+#include "fracture.keymap"
+
+&chosen {
+    zmk,kscan = &kscan0;
+};
+
+&split {
+    status = "okay";
+    role = "central';
+};

@@ -1,0 +1,6 @@
+include:
+- board: seeeduino_xiao_ble
+shield: fracture_left
+
+- board: seeeduino_xiao_ble
+shield: fracture_right
