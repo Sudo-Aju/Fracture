@@ -78,7 +78,9 @@ The project also explores how industrial design and hardware aesthetics can coex
 
 <img src="./Renders/SpacedOut.png">
 <img src="./Renders/Back.png">
-<img src="./Renders/FinalEnclosure.png">
+<img src="./Renders/FinalKeebWoBG.png">
+<img src="./Renders/SideWoBG.png">
+
 
 </div>
 
@@ -128,7 +130,7 @@ Features include:
 <img src="./Assets/SCH.png">
 
 ## Placement
-<img src="" alt="to be added latre">
+<img src="./Assets/PLC.png">
 
 ---
 
@@ -140,18 +142,19 @@ The enclosure follows the central "fracture" design language:
 - Compact low-profile body
 - Seamless split mechanism
 
+<img src="./Renders/FinalEnclosure.png">
+
 The goal was to make the keyboard feel more like a designed object rather than just a perpheral.
 
 ---
 
-# Firmware (QMK)
+# Firmware (ZMK)
 
 Firmware features:
 - Bluetooth support
 - Custom keymaps
 - Layer switching
 - Encoder controls
-- VIA / Vial compatibility *(planned)*
 
 ---
 
@@ -161,7 +164,6 @@ Fracture/
 ├── CAD/
 ├── Firmware/
 ├── Assets/
-├── Docs/
 └── README.md
 ```
 
