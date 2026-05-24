@@ -105,7 +105,7 @@ ___
 
 <div align="center">
 
-<img src="./Assets/Zine.png">
+<img src="./Assets/Zine.png" width="100%">
 
 </div>
 
