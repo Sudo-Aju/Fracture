@@ -68,4 +68,22 @@ The project also explores how industrial design and hardware aesthetics can coex
 
 <img src="./Renders/SpacedOut.png">
 
-<div
+</div>
+
+---
+
+# Hardware Stack
+
+| Component | Description |
+|---|---|
+| MCU | Seeed Studio XIAO nRF52840 |
+| Switches | Kailh Choc Low Profile |
+| Sockets | Kailh Hot Swap Sockets |
+| Layout | 48-key Split |
+| Connectivity | Bluetooth |
+| Encoders | Rotary Encoders (360 Degree Rotary Encoder EC16)
+| Keycaps | Slim Low-Profile Keycaps |
+| PCB | Custom Designes |
+| Case | Themed Fracture Enclosure |
+
+---
