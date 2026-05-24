@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/Sudo-Aju/Fracture/blob/main/Assets/logo.png?raw=true" alt="FractureLogo" width="100%" />
+# <img src="./Assets/logo.png" alt="FractureLogo" width="100%" />
 
 A Bluetooth Powered 48-Key Split Keyboard
 
