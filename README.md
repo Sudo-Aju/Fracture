@@ -111,21 +111,6 @@ ___
 
 ---
 
-# Design Philosophy
-
-Fracture was designed around three core ideas:
-
-## 1. Ergonomics
-The split layout allows natural hand positioning, reducing strain during long typing sessions.
-
-## 2. Modularity
-Hot-swap sockets and detachable halves make the keyboard adaptable and repairable.
-
-## 3. Identity
-instead of looking like a generic keyboard, Fracture embraces an aggresive fractured visual style inspired by broken surfaces and asymmetry.
-
----
-
 # PCB Design
 
 The PCB was custom designed specifically for the Fracture layout and enclosure.
@@ -175,7 +160,13 @@ Fracture/
 
 # Current Status
 
-Fracture is currently been designed and is yet to be built.
+- [X] Inital Concept
+- [X] Layout Finalized
+- [X] Enclosure Prototype
+- [X] PCB design
+- [X] Firmware
+- [ ] Final Build
+- [ ] Firmware Optimization
 
 ---
 
