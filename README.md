@@ -33,6 +33,30 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 
 ---
 
+# Gallery
+
+<div align="center">
+
+<img src="./Renders/SpacedOut.png">
+<img src="./Renders/Back.png">
+<img src="./Renders/FinalKeebWoBG.png">
+<img src="./Renders/SideWoBG.png">
+
+
+</div>
+
+---
+
+# Zine
+
+<div align="center">
+
+<img src="./Assets/Zine.png" width="100%">
+
+</div>
+
+---
+
 # Assembly Guide
 
 ## Hardware
@@ -154,20 +178,6 @@ Repeat for the second half as well.
 - **Portable & Lightweigth**
 - **Fully Custom PCB**
 
----
-
-# Gallery
-
-<div align="center">
-
-<img src="./Renders/SpacedOut.png">
-<img src="./Renders/Back.png">
-<img src="./Renders/FinalKeebWoBG.png">
-<img src="./Renders/SideWoBG.png">
-
-
-</div>
-
 ___
 
 
@@ -184,16 +194,6 @@ ___
 | Keycaps | Slim Low-Profile Keycaps |
 | PCB | Custom Designes |
 | Case | Themed Fracture Enclosure |
-
----
-
-# Zine
-
-<div align="center">
-
-<img src="./Assets/Zine.png" width="100%">
-
-</div>
 
 ---
 
