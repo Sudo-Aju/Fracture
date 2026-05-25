@@ -33,7 +33,7 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 
 ---
 
-#Assembly Guide
+# Assembly Guide
 
 ## Hardware
 
@@ -48,13 +48,50 @@ PCB/Production/
 Upload the included Gerber files to your preferred PCB manufacturer and order the PCB.
 
 ### 2. Order the Components
+All required components and purchase links are available inside: (India)
+```bash
+PCB/BOM/BOM.csv
+```
+Order all listed parts before starting assembly
 ### 3. Solder the SMD Components
+
+Start by soldering first few SMD components on the PCB:
+- Diodes are on the front
+- MCU pads are on the back
+
+It is recommended to use:
+- Flux
+- Dine-tip soldering iron
+- Tweezers
+
 ### 4. Install Hot-Swap Sockets
+- Solder all Kailh hot-swap sockets onto the PCB carefully.
+
+- Ensure every socket sits completely flat agains the PCB before soldering.
+
 ### 5. Install the Rotary Encoders
+
+- Solder the EC11 rotary encoders in their designated positions.
+
+- Make sure they are aligned staright before fully soldering.
+
 ### 6. Insert the MCU
+
+- Now the XIAO nRF52840 (or any other if changed) controllers onto the PCB. 
+
 ### 7. Assemble the Case
+
+- Print the 3D enclosure, and inert the PCB by aligning its M3 screw holes with the joints.
+
 ### 8. Install Switches
+
+- Insert all Kailh Choc switches into the plate and hot-swap sockets.
+
+- Check alignment carefully to avoid bent pins.
+
 ### 9. Install Keycaps
+
+- Press the keycaps firmly onto the switches,
 
 ## Firmware Installation
 
