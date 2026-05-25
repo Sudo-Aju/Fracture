@@ -13,13 +13,9 @@ A Bluetooth Powered 48-Key Split Keyboard
 
 ### _A keyboard designed to physically split apart - because productivity and aesthetics shouldn't stay connected._
 
-</div>
 
----
 
-# Preview
 
-<div align="center">
 
 <img src="./Renders/FinalKeeb.png">
 
@@ -37,7 +33,7 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 
 ---
 
-# Bom
+# BOM
 
 |Designator                                                                                                                                                                                                                                                                           |Function        |Value                               |Footprint                              |Quantity|Price (INR)|Price (USD)|Amount |Link                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------|---------------------------------------|--------|-----------|-----------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,25 +50,6 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 |SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW26, SW29, SW30, SW31, SW33, SW34, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49                        |Hot-swap Sockets|Kailh HS choc v1                    |SW_choc_v1_HS_CPG135001S30             |48      |₹14.00     |$0.14      |$6.89  |https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478                                                                          |
 |TOTAL                                                                                                                                                                                                                                                                                |                |                                    |                                       |        |           |           |$119.21|                                                                                                                                                                |
 
-
----
-
-# Inspiration
-
-Most keyboards are designed around a fixed layout.
-
-Fracture was built around a different idea:
-
-> _What if keyboard itself reflected flexibility?_
-
-The split design is inspired from Corne keyboards:
-- Better ergonomics
-- Adjustable positioning
-- Cleaner desk setups
-- Compact portability
-- A visually striking design language
-
-The project also explores how industrial design and hardware aesthetics can coexist with practicality.
 
 ---
 
