@@ -13,10 +13,6 @@ A Bluetooth Powered 48-Key Split Keyboard
 
 ### _A keyboard designed to physically split apart - because productivity and aesthetics shouldn't stay connected._
 
-
-
-
-
 <img src="./Renders/FinalKeeb.png">
 
 </div>
@@ -54,6 +50,25 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 <img src="./Assets/Zine.png" width="100%">
 
 </div>
+
+---
+
+# Motivation
+
+Most keyboards are designed around a fixed layout.
+
+Fracture was built around a different idea:
+
+> _What if keyboard itself reflected flexibility?_
+
+The split design is inspired from Corne keyboards:
+- Better ergonomics
+- Adjustable positioning
+- Cleaner desk setups
+- Compact portability
+- A visually striking design language
+
+The project also explores how industrial design and hardware aesthetics can coexist with practicality.
 
 ---
 
