@@ -33,6 +33,58 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 
 ---
 
+#Assembly Guide
+
+## Hardware
+
+### 1. Order the PCB
+
+Navigate to:
+
+```bash
+PCB/Production/
+```
+
+Upload the included Gerber files to your preferred PCB manufacturer and order the PCB.
+
+### 2. Order the Components
+### 3. Solder the SMD Components
+### 4. Install Hot-Swap Sockets
+### 5. Install the Rotary Encoders
+### 6. Insert the MCU
+### 7. Assemble the Case
+### 8. Install Switches
+### 9. Install Keycaps
+
+## Firmware Installation
+
+### 1. Enter Bootloader Mode
+While the keyboard is unplugged:
+
+- Short the `BOOT` and `GND` pads using tweezers or screwdriver
+- Plug in the USB cable
+
+or
+
+- Double press the reset button on the XIAO nRF52840
+
+A new drive should appear on your computer
+
+### 2. Download Firmware
+
+Naviagte to:
+```bash
+Firmware/
+```
+and download `adafruit-circuitpython-Seeed_XIAO_nRF52840_Sense-en_US-10.2.1.uf2` or compile the files in `Firmware/Config` file if ZMK is to be used.
+
+### 3. Flash the Firmware
+
+Drag and drop the `uf2` file onto the mounted drive.
+Repeat for the second half as well.
+
+---
+
 # BOM
 
 |Designator                                                                                                                                                                                                                                                                           |Function        |Value                               |Footprint                              |Quantity|Price (INR)|Price (USD)|Amount |Link                                                                                                                                                            |
@@ -49,8 +101,6 @@ Built using the **Seed Studio XIAO nRF52840**, Kailh Choc Switches, and low-prof
 |U1, U2                                                                                                                                                                                                                                                                               |MCU             |XIAO nRF52840                       |modified-XIAO-nRF52840-SMD             |2       |₹1,152.00  |$11.82     |$23.63 |https://robu.in/product/seeed-studio-xiao-ble-nrf52840/                                                                                                         |
 |SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW26, SW29, SW30, SW31, SW33, SW34, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49                        |Hot-swap Sockets|Kailh HS choc v1                    |SW_choc_v1_HS_CPG135001S30             |48      |₹14.00     |$0.14      |$6.89  |https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478                                                                          |
 |TOTAL                                                                                                                                                                                                                                                                                |                |                                    |                                       |        |           |           |$119.21|                                                                                                                                                                |
-
-
 ---
 
 # Features
